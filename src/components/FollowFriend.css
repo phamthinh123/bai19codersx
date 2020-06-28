@@ -1,0 +1,38 @@
+
+.FollowFriend{
+padding:1rem 0;
+
+
+}
+
+
+.main{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	
+}
+.content3{
+	display: flex;
+
+
+}
+.content3a p:nth-child(2){
+	color: #999999;
+	font-size: 0.8rem;
+	text-align: left;
+}
+img{
+	border-radius: 50%;
+	margin-right: 0.5rem;
+
+}
+p{
+margin-bottom:0.5em;
+margin-top:0.5em;
+}
+a{
+	text-decoration: none;
+	font-size: 0.8rem;
+	
+}
